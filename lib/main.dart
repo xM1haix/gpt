@@ -14,7 +14,10 @@ void main() {
   );
 }
 
+///Main skelethon of the app
+
 class Page extends StatefulWidget {
+  ///
   const Page({super.key});
 
   @override

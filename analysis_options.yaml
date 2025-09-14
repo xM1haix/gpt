@@ -2,6 +2,7 @@ include: package:flutter_lints/flutter.yaml
 linter:
   rules:
     - avoid_multiple_declarations_per_line
+    - public_member_api_docs
     - always_declare_return_types
     - always_put_control_body_on_new_line
     - always_put_required_named_parameters_first
